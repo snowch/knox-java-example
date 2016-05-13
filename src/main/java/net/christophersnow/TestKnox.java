@@ -13,5 +13,4 @@ public class TestKnox {
     	
     	session.shutdown();
     }
-
 }
